@@ -1,5 +1,10 @@
-## Hi there 👋
 
+Currently working in the world of finance at **SimCorp A/S**
+
+Previously softwre and data science at **CERN**  
+
+📫 You can reach me on email
+  
 <!--
 **mlotti/mlotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
