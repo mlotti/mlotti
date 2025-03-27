@@ -3,7 +3,7 @@ Currently working in the world of finance at **SimCorp A/S**
 
 Previously software and data science at **CERN**  
 
-📫 You can reach me on email
+📫 You can reach me on mikko.lotti(at)gmail.com
   
 <!--
 **mlotti/mlotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
