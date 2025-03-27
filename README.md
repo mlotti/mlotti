@@ -1,7 +1,7 @@
 
 Currently working in the world of finance at **SimCorp A/S**
 
-Previously softwre and data science at **CERN**  
+Previously software and data science at **CERN**  
 
 📫 You can reach me on email
   
