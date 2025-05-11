@@ -1,6 +1,6 @@
 
 Currently working in the world of finance at **SimCorp A/S**
-- C/C++, C#, Kotlin, APL  
+- C/C++, C#/.NET, Kotlin, APL  
 
 Previously software and data science at **CERN**  
 - C++, Python 
